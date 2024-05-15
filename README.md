@@ -7,6 +7,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
  - [ChatGPT](https://chatgpt.com/)
  - [PowerPoint](https://www.microsoft.com/pt-br/microsoft-365/powerpoint)
+ - [Google](https://www.google.com.br/imghp?hl=pt-pt)
 
 ## 🧠Prompts
 ChatGPT:

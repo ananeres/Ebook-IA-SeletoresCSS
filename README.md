@@ -1,7 +1,7 @@
 ![Prints livro](https://github.com/ananeres/Ebook-IA-SeletoresCSS/blob/main/assets/prints.png)
 
 # Projeto EBOOK Gerado por I.A.s
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Nele, você encontrará um guia prático sobre seletores CSS, dividido em cinco capítulos simples e diretos.
 
 ## 💻 Tecnologidas utilizadas
 

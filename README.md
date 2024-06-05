@@ -1,4 +1,6 @@
-![Prints livro](https://github.com/ananeres/Ebook-IA-SeletoresCSS/blob/main/assets/prints.png)
+<p align="center">
+  <img src="https://github.com/ananeres/Ebook-IA-SeletoresCSS/blob/main/assets/prints.png" alt="tem paginas do livro, para exemplificar o conteudo" />
+</p>
 
 # 📱Projeto EBOOK Gerado por I.A.s
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Nele, você encontrará um guia prático sobre seletores CSS, dividido em cinco capítulos simples e diretos.
